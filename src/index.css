@@ -1,5 +1,5 @@
 @import "tailwindcss";
 @theme {
-  --font-primary: "polymath-display", sans-serif;
+  --font-primary: "novel-mono-pro", sans-serif;
   --font-secondary: "attribute-text", sans-serif;
 }
